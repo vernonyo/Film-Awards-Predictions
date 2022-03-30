@@ -1,0 +1,501 @@
+Title,Languages,AgeRating
+,,
+The Shawshank Redemption,R,['English']
+,,
+The Dark Knight,PG-13,"['English', 'Mandarin']"
+,,
+Inception,PG-13,"['English', 'Japanese', 'French']"
+,,
+Fight Club,R,['English']
+,,
+Pulp Fiction,R,"['English', 'Spanish', 'French']"
+,,
+Forrest Gump,PG-13,['English']
+,,
+The Matrix,R,['English']
+,,
+The Lord of the Rings: The Fellowship of the Ring,PG-13,"['English', 'Sindarin']"
+,,
+The Lord of the Rings: The Return of the King,PG-13,"['English', 'Quenya', 'Old English', 'Sindarin']"
+,,
+The Godfather,R,"['English', 'Italian', 'Latin']"
+,,
+The Dark Knight Rises,PG-13,"['English', 'Arabic']"
+,,
+Interstellar,PG-13,['English']
+,,
+The Lord of the Rings: The Two Towers,PG-13,"['English', 'Sindarin', 'Old English']"
+,,
+Se7en,R,['English']
+,,
+Django Unchained,R,"['English', 'German', 'French', 'Italian']"
+,,
+Gladiator,R,['English']
+,,
+Batman Begins,PG-13,"['English', 'Mandarin']"
+,,
+The Silence of the Lambs,R,"['English', 'Latin']"
+,,
+The Avengers,PG-13,"['English', 'Russian', 'Hindi']"
+,,
+Inglourious Basterds,R,"['English', 'German', 'French', 'Italian']"
+,,
+Saving Private Ryan,R,"['English', 'French', 'German', 'Czech']"
+,,
+Star Wars,PG,['English']
+,,
+Schindler's List,R,"['English', 'Hebrew', 'German', 'Polish', 'Latin']"
+,,
+The Departed,R,"['English', 'Cantonese']"
+,,
+The Prestige,PG-13,['English']
+,,
+The Wolf of Wall Street,R,"['English', 'French']"
+,,
+Star Wars: Episode V - The Empire Strikes Back,PG,['English']
+,,
+The Green Mile,R,"['English', 'French']"
+,,
+The Godfather: Part II,R,"['English', 'Italian', 'Spanish', 'Latin', 'Sicilian']"
+,,
+Shutter Island,R,"['English', 'German']"
+,,
+Memento,R,['English']
+,,
+Avatar,PG-13,"['English', 'Spanish']"
+,,
+American Beauty,R,['English']
+,,
+Back to the Future,PG,['English']
+,,
+Titanic,PG-13,"['English', 'Swedish', 'Italian', 'French']"
+,,
+Guardians of the Galaxy,PG-13,['English']
+,,
+American History X,R,['English']
+,,
+V for Vendetta,R,['English']
+,,
+Léon,R,"['English', 'Italian', 'French']"
+,,
+Pirates of the Caribbean: The Curse of the Black Pearl,PG-13,['English']
+,,
+Goodfellas,R,"['English', 'Italian']"
+,,
+Kill Bill: Vol. 1,R,"['English', 'Japanese', 'French']"
+,,
+WALL·E,G,"['English', 'Hindi']"
+,,
+Terminator 2: Judgment Day,R,"['English', 'Spanish']"
+,,
+The Usual Suspects,R,"['English', 'Hungarian', 'Spanish', 'French']"
+,,
+Braveheart,R,"['English', 'French', 'Latin', 'Gaelic', 'Italian']"
+,,
+Finding Nemo,G,['English']
+,,
+Star Wars: Episode VI - Return of the Jedi,PG,['English']
+,,
+The Lion King,G,"['English', 'Swahili', 'Xhosa', 'Zulu']"
+,,
+Iron Man,PG-13,"['English', 'Persian', 'Urdu', 'Arabic', 'Kurdish', 'Hindi', 'Hungarian']"
+,,
+The Truman Show,PG,['English']
+,,
+Up,PG,['English']
+,,
+Reservoir Dogs,R,['English']
+,,
+One Flew Over the Cuckoo's Nest,R,['English']
+,,
+Joker,R,['English']
+,,
+The Sixth Sense,PG-13,"['English', 'Latin', 'Spanish']"
+,,
+Eternal Sunshine of the Spotless Mind,R,['English']
+,,
+Deadpool,R,['English']
+,,
+The Shining,R,['English']
+,,
+Toy Story,G,['English']
+,,
+Raiders of the Lost Ark,PG,"['English', 'German', 'Hebrew', 'Spanish', 'Arabic', 'Nepali']"
+,,
+Mad Max: Fury Road,R,"['English', 'Russian']"
+,,
+Jurassic Park,PG-13,"['English', 'Spanish']"
+,,
+Star Wars: Episode VII - The Force Awakens,PG-13,['English']
+,,
+Good Will Hunting,R,['English']
+,,
+Gone Girl,R,['English']
+,,
+No Country for Old Men,R,"['English', 'Spanish']"
+,,
+A Beautiful Mind,PG-13,['English']
+,,
+The Hunger Games,PG-13,['English']
+,,
+Avengers: Infinity War,PG-13,['English']
+,,
+Catch Me If You Can,PG-13,"['English', 'French']"
+,,
+"Monsters, Inc.",G,['English']
+,,
+The Terminator,R,"['English', 'Spanish']"
+,,
+Slumdog Millionaire,R,"['English', 'Hindi', 'French', 'German']"
+,,
+Avengers: Endgame,PG-13,"['English', 'Japanese', 'Xhosa', 'German']"
+,,
+Alien,R,['English']
+,,
+Die Hard,R,"['English', 'German', 'Italian', 'Japanese']"
+,,
+Snatch,R,"['English', 'Russian']"
+,,
+Gravity,PG-13,"['English', 'Greenlandic']"
+,,
+Requiem for a Dream,Unrated,['English']
+,,
+Harry Potter and the Deathly Hallows: Part 2,PG-13,"['English', 'Latin']"
+,,
+The Hobbit: An Unexpected Journey,PG-13,['English']
+,,
+The Martian,PG-13,"['English', 'Mandarin']"
+,,
+A Clockwork Orange,(Banned),['English']
+,,
+Toy Story 3,G,"['English', 'Spanish']"
+,,
+The Intouchables,R,"['French', 'English']"
+,,
+Iron Man Three,PG-13,['English']
+,,
+Thor,PG-13,['English']
+,,
+Sin City,R,['English']
+,,
+Donnie Darko,R,['English']
+,,
+Avengers: Age of Ultron,PG-13,"['English', 'Korean']"
+,,
+Scarface,R,"['English', 'Spanish']"
+,,
+Captain America: The First Avenger,PG-13,"['English', 'Norwegian', 'French']"
+,,
+Captain America: The Winter Soldier,PG-13,"['English', 'French']"
+,,
+300,R,['English']
+,,
+The Big Lebowski,R,"['English', 'German', 'Hebrew', 'Spanish']"
+,,
+Star Wars: Episode I - The Phantom Menace,PG,"['English', 'Sanskrit']"
+,,
+The Pianist,(Banned),"['English', 'German', 'Russian']"
+,,
+Taxi Driver,R,"['English', 'Spanish']"
+,,
+Iron Man 2,PG-13,"['English', 'French', 'Russian']"
+,,
+Gran Torino,R,"['English', 'Hmong']"
+,,
+The Hangover,R,['English']
+,,
+Whiplash,R,['English']
+,,
+Star Wars: Episode III - Revenge of the Sith,PG-13,['English']
+,,
+The Grand Budapest Hotel,R,"['English', 'French', 'German']"
+,,
+Amélie,R,"['French', 'Russian', 'English']"
+,,
+The Revenant,R,"['English', 'Pawnee', 'French']"
+,,
+Black Swan,R,"['English', 'French', 'Italian']"
+,,
+Cidade de Deus,R,['Portuguese']
+,,
+Blade Runner,R,"['Low German', 'English', 'German', 'Cantonese', 'Japanese', 'Hungarian', 'Arabic', 'Korean']"
+,,
+Indiana Jones and the Last Crusade,PG-13,"['English', 'German', 'Greek', 'Arabic']"
+,,
+Man of Steel,PG-13,['English']
+,,
+Spider-Man,PG-13,['English']
+,,
+"Il buono, il brutto, il cattivo",R,['Italian']
+,,
+I Am Legend,PG-13,['English']
+,,
+12 Angry Men,Approved,['English']
+,,
+The Imitation Game,PG-13,"['English', 'German']"
+,,
+Kill Bill: Vol. 2,R,"['English', 'Cantonese', 'Mandarin', 'Spanish']"
+,,
+Full Metal Jacket,R,"['English', 'Vietnamese']"
+,,
+How to Train Your Dragon,PG,['English']
+,,
+Silver Linings Playbook,R,['English']
+,,
+X-Men: Days of Future Past,PG-13,"['English', 'Vietnamese', 'French']"
+,,
+Captain America: Civil War,PG-13,"['English', 'German', 'Xhosa', 'Russian', 'Romanian', 'Hindi']"
+,,
+The Incredibles,PG,"['English', 'French']"
+,,
+Pirates of the Caribbean: Dead Man's Chest,PG-13,"['English', 'Turkish', 'Greek', 'Mandarin', 'French']"
+,,
+Aliens,R,['English']
+,,
+Harry Potter and the Sorcerer's Stone,PG,"['English', 'Latin']"
+,,
+X: First Class,PG-13,"['English', 'German', 'French', 'Spanish', 'Russian']"
+,,
+Sen to Chihiro no kamikakushi,PG,"['Japanese', 'English']"
+,,
+Logan,R,"['English', 'Spanish']"
+,,
+District 9,R,"['English', 'Nyanja', 'Afrikaans', 'Zulu', 'Xhosa', 'Sotho']"
+,,
+The King's Speech,R,['English']
+,,
+Star Wars: Episode II - Attack of the Clones,PG,['English']
+,,
+Ratatouille,G,"['English', 'French']"
+,,
+12 Years a Slave,R,['English']
+,,
+Million Dollar Baby,PG-13,"['English', 'Irish Gaelic']"
+,,
+Trainspotting,R,['English']
+,,
+Skyfall,PG-13,"['English', 'Turkish', 'Shanghainese', 'Portuguese', 'Japanese']"
+,,
+Batman v Superman: Dawn of Justice,PG-13,['English']
+,,
+The Social Network,PG-13,"['English', 'French']"
+,,
+Black Panther,PG-13,"['English', 'Swahili', 'Nama', 'Xhosa', 'Korean']"
+,,
+La vita è bella,PG-13,"['Italian', 'German', 'English']"
+,,
+Pan's Labyrinth,R,['Spanish']
+,,
+Fargo,R,"['English', 'German', 'Korean', 'Spanish', 'American Sign Language', 'French', 'Ukrainian', 'Hebrew', 'Russian']"
+,,
+The Hunger Games: Catching Fire,PG-13,['English']
+,,
+Shrek,PG,['English']
+,,
+Inside Out,PG,"['English', 'Portuguese']"
+,,
+The Bourne Ultimatum,PG-13,"['English', 'French', 'Arabic', 'Russian', 'Spanish']"
+,,
+Apocalypse Now,R,"['English', 'French', 'Vietnamese']"
+,,
+Psycho,R,['English']
+,,
+2001: A Space Odyssey,G,"['English', 'Russian', 'French']"
+,,
+World War Z,PG-13,"['English', 'Spanish', 'Hebrew', 'Arabic']"
+,,
+The Hobbit: The Desolation of Smaug,PG-13,['English']
+,,
+Suicide Squad,PG-13,"['English', 'Japanese', 'Spanish']"
+,,
+Edge of Tomorrow,PG-13,['English']
+,,
+Transformers,PG-13,"['English', 'Spanish']"
+,,
+Prisoners,R,['English']
+,,
+Now You See Me,PG-13,"['English', 'French']"
+,,
+Pirates of the Caribbean: At World's End,PG-13,['English']
+,,
+Thor: The Dark World,PG-13,['English']
+,,
+Doctor Strange,PG-13,['English']
+,,
+Arrival,PG-13,"['English', 'Russian', 'Mandarin']"
+,,
+Kingsman: The Secret Service,R,"['English', 'Arabic', 'Swedish']"
+,,
+The Curious Case of Benjamin Button,PG-13,"['English', 'Russian', 'French']"
+,,
+Sherlock Holmes,PG-13,"['English', 'French']"
+,,
+Casino Royale,PG-13,"['English', 'Serbian', 'German', 'Italian', 'French']"
+,,
+Thor: Ragnarok,PG-13,['English']
+,,
+Life of Pi,PG,"['English', 'Hindi', 'Japanese', 'French']"
+,,
+Jurassic World,PG-13,['English']
+,,
+Star Trek,PG-13,['English']
+,,
+Birdman or (The Unexpected Virtue of Ignorance),R,['English']
+,,
+Groundhog Day,PG,"['English', 'French', 'Italian']"
+,,
+Twelve Monkeys,R,"['English', 'French']"
+,,
+Heat,R,"['English', 'Spanish']"
+,,
+Argo,R,"['English', 'Persian', 'German', 'Arabic']"
+,,
+Frozen,PG,"['English', 'Norwegian']"
+,,
+Into the Wild,R,"['English', 'Danish']"
+,,
+X-Men,PG-13,['English']
+,,
+Ted,R,[]
+,,
+Drive,R,"['English', 'Spanish']"
+,,
+Prometheus,R,"['English', 'Gaelic']"
+,,
+Ant-Man,PG-13,['English']
+,,
+Taken,PG-13,"['English', 'French', 'Albanian', 'Arabic']"
+,,
+Guardians of the Galaxy Vol. 2,PG-13,['English']
+,,
+Star Wars: Episode VIII - The Last Jedi,PG-13,['English']
+,,
+The Amazing Spider-Man,PG-13,['English']
+,,
+Rogue One,PG-13,['English']
+,,
+Harry Potter and the Chamber of Secrets,PG,"['English', 'Latin']"
+,,
+Dunkirk,PG-13,"['English', 'French', 'German']"
+,,
+Harry Potter and the Prisoner of Azkaban,PG,"['English', 'Latin', 'Old English']"
+,,
+Wonder Woman,PG-13,"['English', 'German', 'Dutch', 'Flemish', 'French', 'Spanish', 'Chinese', 'Greek, Ancient (to 1453)', 'North American Indian']"
+,,
+Harry Potter and the Goblet of Fire,PG-13,"['English', 'French', 'Latin']"
+,,
+Jaws,PG,['English']
+,,
+Spider-Man 2,PG-13,"['English', 'Russian', 'Chinese']"
+,,
+Her,R,['English']
+,,
+Once Upon a Time... in Hollywood,R,"['English', 'Italian', 'Spanish', 'German']"
+,,
+Looper,R,"['English', 'French']"
+,,
+"Lock, Stock and Two Smoking Barrels",R,['English']
+,,
+John Wick,R,"['English', 'Russian', 'Hungarian']"
+,,
+L.A. Confidential,R,['English']
+,,
+Independence Day,PG-13,['English']
+,,
+Limitless,PG-13,"['English', 'Russian', 'Italian', 'Mandarin', 'French']"
+,,
+Toy Story 2,G,"['English', 'Arabic', 'Spanish']"
+,,
+Kick-Ass,R,['English']
+,,
+Cast Away,PG-13,"['English', 'Russian']"
+,,
+Gisaengchung,R,"['Korean', 'English']"
+,,
+Casablanca,PG,"['English', 'French', 'German', 'Italian']"
+,,
+Superbad,R,['English']
+,,
+Zombieland,R,"['English', 'Spanish', 'French']"
+,,
+The Notebook,PG-13,['English']
+,,
+Rocky,PG,['English']
+,,
+Men in Black,PG-13,"['English', 'Spanish']"
+,,
+Ocean's Eleven,PG-13,"['English', 'Italian', 'Cantonese']"
+,,
+The Matrix Reloaded,(Banned),"['English', 'French']"
+,,
+There Will Be Blood,R,"['English', 'American Sign Language']"
+,,
+Oldeuboi,R,['Korean']
+,,
+The Hateful Eight,R,"['English', 'Spanish', 'French']"
+,,
+X2,PG-13,"['English', 'German', 'Italian', 'Spanish']"
+,,
+Shaun of the Dead,R,['English']
+,,
+21 Jump Street,R,['English']
+,,
+The Bourne Identity,PG-13,"['English', 'French', 'German', 'Dutch', 'Italian', 'Yoruba']"
+,,
+Minority Report,PG-13,"['English', 'Swedish']"
+,,
+Spider-Man: Homecoming,PG-13,"['English', 'Spanish']"
+,,
+Harry Potter and the Order of the Phoenix,PG-13,"['English', 'Latin']"
+,,
+La La Land,PG-13,"['English', 'Cantonese']"
+,,
+Watchmen,R,['English']
+,,
+Monty Python and the Holy Grail,PG,"['English', 'French', 'Latin']"
+,,
+Despicable Me,PG,['English']
+,,
+"I, Robot",PG-13,['English']
+,,
+Spider-Man 3,PG-13,"['English', 'French']"
+,,
+Blood Diamond,R,"['English', 'Mende', 'Afrikaans']"
+,,
+Rise of the Planet of the Apes,PG-13,"['English', 'Sign Languages']"
+,,
+Juno,PG-13,"['English', 'Spanish']"
+,,
+Troy,R,['English']
+,,
+Get Out,R,"['English', 'Swahili']"
+,,
+American Psycho,R,"['English', 'Spanish', 'Cantonese']"
+,,
+Oblivion,PG-13,['English']
+,,
+Source Code,PG-13,['English']
+,,
+X-Men: The Last Stand,PG-13,['English']
+,,
+Pirates of the Caribbean: On Stranger Tides,PG-13,"['English', 'Spanish']"
+,,
+Back to the Future Part II,PG,['English']
+,,
+The Great Gatsby,PG-13,['English']
+,,
+Harry Potter and the Deathly Hallows: Part 1,PG-13,"['English', 'Latin']"
+,,
+Deadpool 2,R,"['English', 'Cantonese', 'Spanish', 'Russian']"
+,,
+The Hobbit: The Battle of the Five Armies,PG-13,['English']
+,,
+Rain Man,R,"['English', 'Italian']"
+,,
+Ex Machina,R,['English']
+,,
+(500) Days of Summer,PG-13,"['English', 'French', 'Swedish']"
+,,
+"Crazy, Stupid, Love.",PG-13,['English']
+,,
+Harry Potter and the Half-Blood Prince,PG,"['English', 'Latin']"
