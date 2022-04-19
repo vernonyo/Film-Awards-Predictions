@@ -1,0 +1,181 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner,Number of wins
+10,1937,1938,10,MUSIC (Scoring),"Walt Disney Studio Music Department, Leigh Harline, head of department  (Score by Frank Churchill, Leigh Harline and Paul J. Smith)",Snow White and the Seven Dwarfs,False,0
+193,1972,1973,45,ACTOR,Marlon Brando,The Godfather,True,3
+204,1973,1974,46,ACTOR IN A SUPPORTING ROLE,Jason Miller,The Exorcist,False,2
+227,1975,1976,48,FILM EDITING,Verna Fields,Jaws,True,3
+246,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Robert Duvall,Apocalypse Now,False,2
+248,1979,1980,52,ART DIRECTION,"Art Direction:  Michael Seymour, Les Dilley, Roger Christian;  Set Decoration:  Ian Whittaker",Alien,False,1
+279,1985,1986,58,MUSIC (Original Song),Music by Chris Hayes and Johnny Colla; Lyric by Huey Lewis,Back to the Future,False,1
+281,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Tom Berenger,Platoon,False,4
+283,1986,1987,59,ACTRESS IN A LEADING ROLE,Sigourney Weaver,Aliens,False,2
+292,1988,1989,61,ACTOR IN A LEADING ROLE,Dustin Hoffman,Rain Man,True,4
+296,1988,1989,61,FILM EDITING,"Frank J. Urioste, John F. Link",Die Hard,False,0
+297,1988,1989,61,SOUND,"Don Bassman, Kevin F. Cleary, Richard Overton, Al Overton",Die Hard,False,0
+298,1988,1989,61,SOUND EFFECTS EDITING,"Stephen H. Flick, Richard Shorr",Die Hard,False,0
+299,1988,1989,61,VISUAL EFFECTS,"Richard Edlund, Al DiSarro, Brent Boates, Thaine Morris",Die Hard,False,0
+309,1989,1990,62,MUSIC (Original Score),John Williams,Indiana Jones and the Last Crusade,False,1
+318,1990,1991,63,FILM EDITING,"Dennis Virkler, John Wright",The Hunt for Red October,False,1
+322,1991,1992,64,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Silence of the Lambs,True,5
+325,1991,1992,64,CINEMATOGRAPHY,Adam Greenberg,Terminator 2: Judgment Day,False,4
+327,1991,1992,64,MUSIC (Original Score),Alan Menken,Beauty and the Beast,True,2
+329,1992,1993,65,ACTOR IN A LEADING ROLE,Clint Eastwood,Unforgiven,False,4
+330,1992,1993,65,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,A Few Good Men,False,0
+332,1992,1993,65,FILM EDITING,Robert Leighton,A Few Good Men,False,0
+334,1992,1993,65,MUSIC (Original Score),Alan Menken,Aladdin,True,2
+335,1992,1993,65,BEST PICTURE,"David Brown, Rob Reiner and Andrew Scheinman, Producers",A Few Good Men,False,0
+337,1992,1993,65,SOUND,"Kevin O'Connell, Rick Kline, Bob Eber",A Few Good Men,False,0
+341,1993,1994,66,ACTOR IN A LEADING ROLE,Liam Neeson,Schindler's List,False,7
+343,1993,1994,66,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,The Fugitive,True,1
+361,1993,1994,66,SOUND,"Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",Jurassic Park,True,3
+366,1994,1995,67,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump,True,6
+367,1994,1995,67,ACTOR IN A LEADING ROLE,John Travolta,Pulp Fiction,False,1
+374,1994,1995,67,MUSIC (Original Score),Hans Zimmer,The Lion King,True,2
+382,1995,1996,68,ACTOR IN A LEADING ROLE,Richard Dreyfuss,Mr. Holland's Opus,False,0
+385,1995,1996,68,ACTOR IN A SUPPORTING ROLE,Ed Harris,Apollo 13,False,2
+398,1996,1997,69,ACTOR IN A LEADING ROLE,Tom Cruise,Jerry Maguire,False,1
+412,1996,1997,69,MAKEUP,"Michael Westmore, Scott Wheeler, Jake Garber",Star Trek: First Contact,False,0
+415,1996,1997,69,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,The Hunchback of Notre Dame,False,0
+418,1996,1997,69,SOUND,"Chris Carpenter, Bill W. Benton, Bob Beemer, Jeff Wexler",Independence Day,False,1
+419,1996,1997,69,SOUND,"Kevin O'Connell, Greg P. Russell, Keith A. Wester",The Rock,False,0
+425,1997,1998,70,ACTOR IN A LEADING ROLE,Matt Damon,Good Will Hunting,False,2
+426,1997,1998,70,ACTOR IN A LEADING ROLE,Jack Nicholson,As Good as It Gets,True,2
+427,1997,1998,70,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic,False,11
+430,1997,1998,70,ART DIRECTION,Art Direction:  Bo Welch;  Set Decoration:  Cheryl Carasik,Men in Black,False,1
+433,1997,1998,70,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",Contact,False,0
+434,1997,1998,70,SOUND EFFECTS EDITING,"Mark P. Stoeckinger, Per Hallberg",Face/Off,False,0
+439,1998,1999,71,ACTOR IN A LEADING ROLE,Tom Hanks,Saving Private Ryan,False,5
+442,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Truman Show,False,0
+443,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,Shakespeare in Love,False,7
+449,1998,1999,71,DIRECTING,Peter Weir,The Truman Show,False,0
+454,1998,1999,71,MUSIC (Original Musical or Comedy Score),Randy Newman,A Bug's Life,False,0
+457,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),Andrew Niccol,The Truman Show,False,0
+460,1999,2000,72,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,True,5
+462,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Michael Clarke Duncan,The Green Mile,False,0
+463,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Haley Joel Osment,The Sixth Sense,False,0
+465,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Toni Collette,The Sixth Sense,False,0
+470,1999,2000,72,DIRECTING,M. Night Shyamalan,The Sixth Sense,False,0
+472,1999,2000,72,FILM EDITING,Zach Staenberg,The Matrix,True,4
+473,1999,2000,72,FILM EDITING,Andrew Mondshein,The Sixth Sense,False,0
+477,1999,2000,72,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story 2,False,0
+478,1999,2000,72,BEST PICTURE,"David Valdes and Frank Darabont, Producers",The Green Mile,False,0
+480,1999,2000,72,BEST PICTURE,"Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",The Sixth Sense,False,0
+481,1999,2000,72,SOUND,"Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",The Green Mile,False,0
+485,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),Frank Darabont,The Green Mile,False,0
+489,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),M. Night Shyamalan,The Sixth Sense,False,0
+490,2000,2001,73,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,True,5
+491,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,True,4
+496,2000,2001,73,ART DIRECTION,Tim Yip,"Crouching Tiger, Hidden Dragon",True,4
+503,2001,2002,74,ACTOR IN A LEADING ROLE,Russell Crowe,A Beautiful Mind,False,4
+504,2001,2002,74,ACTOR IN A SUPPORTING ROLE,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,False,4
+505,2001,2002,74,ANIMATED FEATURE FILM,"Pete Docter, John Lasseter","Monsters, Inc.",False,1
+506,2001,2002,74,ANIMATED FEATURE FILM,Aron Warner,Shrek,True,1
+518,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Paul Newman,Road to Perdition,False,1
+519,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Christopher Walken,Catch Me If You Can,False,0
+521,2002,2003,75,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Alan Lee,The Lord of the Rings: The Two Towers,False,2
+524,2002,2003,75,MUSIC (Original Score),John Williams,Catch Me If You Can,False,0
+525,2002,2003,75,SOUND EDITING,"Richard Hymns, Gary Rydstrom",Minority Report,False,0
+526,2003,2004,76,ACTOR IN A LEADING ROLE,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,False,0
+528,2003,2004,76,ACTOR IN A LEADING ROLE,Sean Penn,Mystic River,True,2
+531,2003,2004,76,ACTOR IN A SUPPORTING ROLE,Ken Watanabe,The Last Samurai,False,0
+535,2003,2004,76,ANIMATED FEATURE FILM,Andrew Stanton,Finding Nemo,True,1
+536,2003,2004,76,ART DIRECTION,Art Direction: Lilly Kilvert; Set Decoration: Gretchen Rau,The Last Samurai,False,0
+537,2003,2004,76,ART DIRECTION,Art Direction: Grant Major; Set Decoration: Dan Hennah and Alan Lee,The Lord of the Rings: The Return of the King,True,11
+539,2003,2004,76,COSTUME DESIGN,Ngila Dickson,The Last Samurai,False,0
+542,2003,2004,76,MAKEUP,Ve Neill and Martin Samuel,Pirates of the Caribbean: The Curse of the Black Pearl,False,0
+544,2003,2004,76,SOUND EDITING,Christopher Boyes and George Watters II,Pirates of the Caribbean: The Curse of the Black Pearl,False,0
+545,2003,2004,76,SOUND MIXING,"Andy Nelson, Anna Behlmer and Jeff Wexler",The Last Samurai,False,0
+546,2003,2004,76,SOUND MIXING,"Christopher Boyes, David Parker, David Campbell and Lee Orloff",Pirates of the Caribbean: The Curse of the Black Pearl,False,0
+547,2003,2004,76,VISUAL EFFECTS,"John Knoll, Hal Hickel, Charles Gibson and Terry Frazee",Pirates of the Caribbean: The Curse of the Black Pearl,False,0
+552,2004,2005,77,ACTOR IN A LEADING ROLE,Clint Eastwood,Million Dollar Baby,False,4
+556,2004,2005,77,ANIMATED FEATURE FILM,Brad Bird,The Incredibles,True,2
+561,2005,2006,78,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Walk the Line,False,1
+565,2005,2006,78,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Simon Bright,King Kong,False,3
+566,2005,2006,78,CINEMATOGRAPHY,Wally Pfister,Batman Begins,False,0
+572,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Mark Wahlberg,The Departed,False,4
+589,2007,2008,80,ACTRESS IN A LEADING ROLE,Ellen Page,Juno,False,1
+590,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Ruby Dee,American Gangster,False,0
+592,2007,2008,80,ANIMATED FEATURE FILM,Brad Bird,Ratatouille,True,1
+593,2007,2008,80,ART DIRECTION,Art Direction: Arthur Max; Set Decoration: Beth A. Rubino,American Gangster,False,0
+596,2007,2008,80,FILM EDITING,Christopher Rouse,The Bourne Ultimatum,True,3
+603,2008,2009,81,ACTOR IN A LEADING ROLE,Brad Pitt,The Curious Case of Benjamin Button,False,3
+605,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,True,2
+610,2008,2009,81,CINEMATOGRAPHY,Anthony Dod Mantle,Slumdog Millionaire,True,8
+613,2009,2010,82,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Inglourious Basterds,True,1
+614,2009,2010,82,ANIMATED FEATURE FILM,Pete Docter,Up,True,2
+615,2009,2010,82,ART DIRECTION,Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair,Avatar,True,3
+616,2009,2010,82,FILM EDITING,Julian Clarke,District 9,False,0
+618,2009,2010,82,MAKEUP,"Barney Burman, Mindy Hall and Joel Harlow",Star Trek,True,1
+619,2009,2010,82,BEST PICTURE,"Peter Jackson and Carolynne Cunningham, Producers",District 9,False,0
+620,2009,2010,82,VISUAL EFFECTS,"Dan Kaufman, Peter Muyzers, Robert Habros and Matt Aitken",District 9,False,0
+621,2009,2010,82,WRITING (Adapted Screenplay),Written by Neill Blomkamp and Terri Tatchell,District 9,False,0
+622,2010,2011,83,ACTOR IN A LEADING ROLE,Jeff Bridges,True Grit,False,0
+623,2010,2011,83,ACTOR IN A LEADING ROLE,Jesse Eisenberg,The Social Network,False,3
+624,2010,2011,83,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,True,4
+625,2010,2011,83,ACTRESS IN A LEADING ROLE,Natalie Portman,Black Swan,True,1
+626,2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,True Grit,False,0
+627,2010,2011,83,ANIMATED FEATURE FILM,Chris Sanders and Dean DeBlois,How to Train Your Dragon,False,0
+628,2010,2011,83,ANIMATED FEATURE FILM,Lee Unkrich,Toy Story 3,True,2
+629,2010,2011,83,ART DIRECTION,Production Design: Guy Hendrix Dyas; Set Decoration: Larry Dias and Doug Mowat,Inception,False,4
+630,2010,2011,83,ART DIRECTION,Production Design: Jess Gonchor; Set Decoration: Nancy Haigh,True Grit,False,0
+631,2010,2011,83,CINEMATOGRAPHY,Roger Deakins,True Grit,False,0
+632,2010,2011,83,COSTUME DESIGN,Mary Zophres,True Grit,False,0
+633,2010,2011,83,DIRECTING,Joel Coen and Ethan Coen,True Grit,False,0
+635,2010,2011,83,MUSIC (Original Score),John Powell,How to Train Your Dragon,False,0
+636,2010,2011,83,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",True Grit,False,0
+637,2010,2011,83,SOUND EDITING,Skip Lievsay and Craig Berkey,True Grit,False,0
+638,2010,2011,83,SOUND MIXING,"Skip Lievsay, Craig Berkey, Greg Orloff and Peter F. Kurland",True Grit,False,0
+639,2010,2011,83,WRITING (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,True Grit,False,0
+642,2011,2012,84,ACTRESS IN A LEADING ROLE,Viola Davis,The Help,False,1
+646,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Argo,False,3
+647,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,True,2
+648,2012,2013,85,CINEMATOGRAPHY,Claudio Miranda,Life of Pi,True,4
+649,2012,2013,85,MAKEUP AND HAIRSTYLING,"Peter Swords King, Rick Findlater and Tami Lane",The Hobbit: An Unexpected Journey,False,0
+650,2012,2013,85,PRODUCTION DESIGN,Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright,The Hobbit: An Unexpected Journey,False,0
+651,2012,2013,85,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and R. Christopher White",The Hobbit: An Unexpected Journey,False,0
+652,2013,2014,86,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Wolf of Wall Street,False,0
+654,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Jonah Hill,The Wolf of Wall Street,False,0
+655,2013,2014,86,ACTRESS IN A LEADING ROLE,Sandra Bullock,Gravity,False,7
+657,2013,2014,86,DIRECTING,Martin Scorsese,The Wolf of Wall Street,False,0
+659,2013,2014,86,BEST PICTURE,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland and Emma Tillinger Koskoff, Producers",The Wolf of Wall Street,False,0
+660,2013,2014,86,SOUND EDITING,Brent Burge and Chris Ward,The Hobbit: The Desolation of Smaug,False,0
+661,2013,2014,86,SOUND MIXING,"Christopher Boyes, Michael Hedges, Michael Semanick and Tony Johnson",The Hobbit: The Desolation of Smaug,False,0
+662,2013,2014,86,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and Eric Reynolds",The Hobbit: The Desolation of Smaug,False,0
+664,2013,2014,86,WRITING (Adapted Screenplay),Screenplay by Terence Winter,The Wolf of Wall Street,False,0
+665,2014,2015,87,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,The Imitation Game,False,1
+668,2014,2015,87,ACTRESS IN A LEADING ROLE,Rosamund Pike,Gone Girl,False,0
+672,2014,2015,87,MAKEUP AND HAIRSTYLING,Elizabeth Yianni-Georgiou and David White,Guardians of the Galaxy,False,0
+673,2014,2015,87,MUSIC (Original Score),Hans Zimmer,Interstellar,False,1
+674,2014,2015,87,VISUAL EFFECTS,"Stephane Ceretti, Nicolas Aithadi, Jonathan Fawkner and Paul Corbould",Guardians of the Galaxy,False,0
+675,2014,2015,87,VISUAL EFFECTS,"Richard Stammers, Lou Pecora, Tim Crosbie and Cameron Waldbauer",X-Men: Days of Future Past,False,0
+676,2015,2016,88,ACTOR IN A LEADING ROLE,Matt Damon,The Martian,False,0
+678,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Sylvester Stallone,Creed,False,0
+680,2015,2016,88,ANIMATED FEATURE FILM,Pete Docter and Jonas Rivera,Inside Out,True,1
+681,2015,2016,88,CINEMATOGRAPHY,John Seale,Mad Max: Fury Road,False,6
+682,2015,2016,88,BEST PICTURE,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",The Martian,False,0
+683,2015,2016,88,PRODUCTION DESIGN,Production Design: Arthur Max; Set Decoration: Celia Bobak,The Martian,False,0
+684,2015,2016,88,SOUND EDITING,Oliver Tarney,The Martian,False,0
+685,2015,2016,88,SOUND MIXING,"Paul Massey, Mark Taylor and Mac Ruth",The Martian,False,0
+686,2015,2016,88,VISUAL EFFECTS,"Richard Stammers, Anders Langlands, Chris Lawrence and Steven Warner",The Martian,False,0
+687,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Drew Goddard,The Martian,False,0
+689,2016,2017,89,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land,False,6
+690,2016,2017,89,ANIMATED FEATURE FILM,"Byron Howard, Rich Moore and Clark Spencer",Zootopia,True,1
+691,2016,2017,89,CINEMATOGRAPHY,Bradford Young,Arrival,False,1
+692,2016,2017,89,SOUND MIXING,"David Parker, Christopher Scarabosio and Stuart Wilson",Rogue One: A Star Wars Story,False,0
+693,2016,2017,89,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",The Jungle Book,True,1
+694,2016,2017,89,VISUAL EFFECTS,"John Knoll, Mohen Leo, Hal Hickel and Neil Corbould",Rogue One: A Star Wars Story,False,0
+695,2017,2018,90,ANIMATED FEATURE FILM,Lee Unkrich and Darla K. Anderson,Coco,True,2
+696,2017,2018,90,CINEMATOGRAPHY,Roger A. Deakins,Blade Runner 2049,True,2
+697,2017,2018,90,CINEMATOGRAPHY,Hoyte van Hoytema,Dunkirk,False,3
+698,2017,2018,90,COSTUME DESIGN,Jacqueline Durran,Beauty and the Beast,False,0
+699,2017,2018,90,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,Beauty and the Beast,False,0
+700,2017,2018,90,WRITING (Adapted Screenplay),Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold,Logan,False,0
+701,2018,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,True,4
+702,2018,2019,91,ACTOR IN A LEADING ROLE,Viggo Mortensen,Green Book,False,3
+704,2018,2019,91,ANIMATED FEATURE FILM,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse,True,1
+706,2018,2019,91,VISUAL EFFECTS,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",Avengers: Infinity War,False,0
+708,2019,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,True,2
+711,2019,2020,92,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,False,1
+714,2019,2020,92,CINEMATOGRAPHY,Roger Deakins,1917,True,3
+718,2019,2020,92,FILM EDITING,Michael McCusker and Andrew Buckland,Ford v Ferrari,True,2
+722,2019,2020,92,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",Avengers: Endgame,False,0
+724,2019,2020,92,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",The Lion King,False,0
