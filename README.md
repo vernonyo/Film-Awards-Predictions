@@ -48,7 +48,7 @@ For detailed walkthrough, please view the source code in order from:
 ## 🤖 Models Used
 1. Decision Tree
 - Another model we chose to use is the decision tree as it predicts the value of a target variable by learning simple decision rules inferred from the data features.
-3. Linear Regression
+2. Linear Regression
 - For the prediction, we decided to use the Linear Regression Model because our response is a numeric variable, hence classification models such as classification trees are unsuitable.
 
 ## 🏆 Conclusion
