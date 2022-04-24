@@ -49,13 +49,14 @@ For detailed walkthrough, please view the source code in order from:
 1. Decision Tree
 - Another model we chose to use is the decision tree as it predicts the value of a target variable by learning simple decision rules inferred from the data features.
 2. Linear Regression
-- For the prediction, we decided to use the Linear Regression Model because our response is a numeric variable, hence classification models such as classification trees are unsuitable.
+- For the prediction, we decided to use the Linear Regression Model. As our response is a numeric variable, classification models such as classification trees are unsuitable hence we will use the Linear Regression Model.
 
 ## 🏆 Conclusion
 - The film's runtime and sales have the highest linear correlation values with the number of oscar wins.
 - Director Rankings and Cast Rankings on the other hand have low linear correlation value with the number of oscar wins.
 - By solely focusing on those films with casts and/or directors in the IMDB Top lists, we further established that summing the cast rankings is not a good predictor of the number of wins a film can obtain at the oscars as the correlation coefficient was near 0.
-- For problems with a high number of possible results, classification models are unsuitable.
+- Between the 2 models we used, the linear regression model is better at predicting the number of wins a film can get at the oscars as it gives us a numeric response, unlike the decision tree.
+- From the results, we found that our mix of predictors is a poor way of predicting whether a film wins at the oscars, and how many times it wins. Hence, we can conclude that there are other factors contributing to the success of a film at the oscars. Some likely factors are trends which change rapidly over time, age group of audiences as they have their own tastes and preferences, etc.
 
 ## What did we learn from this project?
 - Extracting data from various webpages using BeautifulSoup
@@ -63,11 +64,9 @@ For detailed walkthrough, please view the source code in order from:
 - Analysing our data to clean properly, such as when the film name was in the "category" column instead of the "film" column in the original dataset
 - Collaborating using Github
 
-
 ## References
 - <https://plotly.com/python/d>
 - <https://matplotlib.org/3.1.1/contents.html>
 - <https://plotly.com/python/d>
 - <https://seaborn.pydata.org/>
-
-
+- <https://www.musicgateway.com/blog/film-industry/filmmaking/movie-genres>
