@@ -8,9 +8,9 @@ Welcome! This is a Mini-Project for SC1015 (Introduction to Data Science and Art
 
 | Name              |                     Area of Focus                     |GitHub Acount|
 |---|:---:|---|
-| Lee Si-Ying Celest|        Data Preparation, EDA, GitHub Repository        |@rollingsushi|
-| Song Eunbin  |     Presentation Slides and Script     |@eunbinsong20|
-| Yeo Jian Kai Vernon |       Data Preparation, EDA, Linear Regression        |@vernonyo|
+| Lee Si-Ying Celest|        Data Preparation and Cleaning, EDA, GitHub Repository        |@rollingsushi|
+| Song Eunbin  |     EDA, Presentation Slides and Script     |@eunbinsong20|
+| Yeo Jian Kai Vernon |       Data Preparation and Cleaning, EDA, Linear Regression        |@vernonyo|
 
 ## 🏃 Notebook Walkthrough
 For detailed walkthrough, please view the source code in order from:
@@ -51,18 +51,17 @@ For detailed walkthrough, please view the source code in order from:
 ## 🤖 Models Used
 1. Decision Tree
 - Due to the high number of possible results, a classification model such as a decision tree is unsuitable.
-2. Classification Tree
-- 
+
 
 ## 🏆 Conclusion
 - The film's runtime and sales have the highest linear correlation values with the number of oscar wins.
 - Director Rankings and Cast Rankings on the other hand have low linear correlation value with the number of oscar wins.
 - By solely focusing on those films with casts and/or directors in the IMDB Top lists, we further established that summing the cast rankings is not a good predictor of the number of wins a film can obtain at the oscars as the correlation coefficient was near 0.
-- 
+- For problems with a high number of possible results, classification models are unsuitable.
 
 ## What did we learn from this project?
 - Extracting data from various webpages using BeautifulSoup
-- Linear Regression
+- Linear Regression with multiple predictor variables
 - Analysing our data to clean properly, such as when the film name was in the "category" column instead of the "film" column in the original dataset
 - Collaborating using Github
 
