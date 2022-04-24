@@ -15,9 +15,9 @@ Welcome! This is a Mini-Project for SC1015 (Introduction to Data Science and Art
 ## 🏃 Notebook Walkthrough
 For detailed walkthrough, please view the source code in order from:
 
-1. Data Sampling and Data Cleaning, found in: [Data Extraction](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Clean Oscar Award.ipynb)
-2. Visualisation and Exploratory Data Analysis, found in: [Data Visualization](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Data Visualisation and Exploratory Data Analysis.ipynb)
-3. Data Modelling using Linear Regression, found in: [Linear Regression](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
+1. Data Sampling and Data Cleaning, found in: [Clean Oscar Award.ipynb](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Clean Oscar Award.ipynb)
+2. Visualisation and Exploratory Data Analysis, found in: [Data Visualization and EDA](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Data Visualisation and EDA.ipynb)
+3. Data Modelling using Linear Regression, found in: [Prediction.ipynb](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
 
 ## ❓ Problem Statement
 
@@ -51,8 +51,8 @@ For detailed walkthrough, please view the source code in order from:
 ## 🤖 Models Used
 1. Decision Tree
 - Due to the high number of possible results, a classification model such as a decision tree is unsuitable.
-3. Logistic Regression
-4. Neural Networks
+2. Classification Tree
+- 
 
 ## 🏆 Conclusion
 - The film's runtime and sales have the highest linear correlation values with the number of oscar wins.
@@ -72,3 +72,5 @@ For detailed walkthrough, please view the source code in order from:
 - <https://matplotlib.org/3.1.1/contents.html>
 - <https://plotly.com/python/d>
 - <https://seaborn.pydata.org/>
+
+
