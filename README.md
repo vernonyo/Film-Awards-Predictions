@@ -15,9 +15,9 @@ Welcome! This is a Mini-Project for SC1015 (Introduction to Data Science and Art
 ## 🏃 Notebook Walkthrough
 For detailed walkthrough, please view the source code in order from:
 
-1. Data Sampling and Data Cleaning, found in: [Clean Oscar Award.ipynb](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Clean-Oscar-Award.ipynb)
+1. Data Sampling and Data Cleaning, found in: [Clean Oscar Award](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Clean-Oscar-Award.ipynb)
 2. Visualisation and Exploratory Data Analysis, found in: [Data Visualization and EDA](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Data-Visualisation-and-EDA.ipynb)
-3. Data Modelling using Linear Regression, found in: [Prediction.ipynb](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
+3. Data Modelling using Linear Regression, found in: [Prediction](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
 
 ## ❓ Problem Statement
 
