@@ -46,12 +46,13 @@ For detailed walkthrough, please view the source code in order from:
 - To make our visuals more interactive, we used plotly to allow readers to hover their mouses over the graphs and get a quick look at each of our data points.
 
 ## Linear Regression
-- For the prediction, we decided to use the Linear Regression Model because
+- For the prediction, we decided to use the Linear Regression Model because our response is a numeric variable, hence classification models such as classification trees are unsuitable.
 
 ## 🤖 Models Used
-
-1. Logistic Regression
-2. Neural Networks
+1. Decision Tree
+- Due to the high number of possible results, a classification model such as a decision tree is unsuitable.
+3. Logistic Regression
+4. Neural Networks
 
 ## 🏆 Conclusion
 - The film's runtime and sales have the highest linear correlation values with the number of oscar wins.
