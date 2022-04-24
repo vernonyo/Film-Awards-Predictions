@@ -61,7 +61,7 @@ For detailed walkthrough, please view the source code in order from:
 ## What did we learn from this project?
 - Extracting data from various webpages using BeautifulSoup
 - Linear Regression with multiple predictor variables
-- Analysing our data to clean properly, such as when the film name was in the "category" column instead of the "film" column in the original dataset
+- Analysing our data to clean properly, such as when the film name was in the "name" column instead of the "film" column in the original dataset
 - Collaborating using Github
 
 ## References
