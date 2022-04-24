@@ -40,7 +40,7 @@ For detailed walkthrough, please view the source code in order from:
 - Our original dataset, found in: [Original Oscar Award Dataset](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/datasets/original/the_oscar_award.csv) contains the film winners of each category for a particular year. In order to determine the number of times a film wins at the Oscars, we need to add our predictors into the dataset.
 - Hence, our team had to extract the data from each of the film's IMDB page to gather each of the film's information and store it in the dataset.
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis (this file needs to be opened on jupyter notebook to view all the graphs)
 - Here, we looked at the relationships between different variables, more importantly, our predictors with the film's number of wins at the oscars
 - Our visualisation of graphs was done using different python graphing libraries such as matplotlib, seaborn and plotly.
 - To make our visuals more interactive, we used plotly to allow readers to hover their mouses over the graphs and get a quick look at each of our data points.
