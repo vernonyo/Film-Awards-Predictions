@@ -43,7 +43,7 @@ For detailed walkthrough, please view the source code in order from:
 ## Exploratory Data Analysis (this file needs to be opened on jupyter notebook to view all the graphs)
 - Here, we looked at the relationships between different variables, more importantly, our predictors with the film's number of wins at the oscars
 - Our visualisation of graphs was done using different python graphing libraries such as matplotlib, seaborn and plotly.
-- To make our visuals more interactive, we used plotly to allow readers to hover their mouses over the graphs and get a quick look at each of our data points.
+- To make our visuals more interactive, we used plotly to allow readers to hover their mouse over the graphs and get a quick look at each of our data points.
 
 ## 🤖 Models Used
 1. Decision Tree
