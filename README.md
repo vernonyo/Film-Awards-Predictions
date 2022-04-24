@@ -9,7 +9,7 @@ Welcome! This is a Mini-Project for SC1015 (Introduction to Data Science and Art
 | Name              |                     Area of Focus                     |GitHub Acount|
 |---|:---:|---|
 | Lee Si-Ying Celest|        Data Preparation, EDA, GitHub Repository        |@rollingsushi|
-| Song Eunbin  |     Presentation Slides     |@eunbinsong20|
+| Song Eunbin  |     Presentation Slides and Script     |@eunbinsong20|
 | Yeo Jian Kai Vernon |       Data Preparation, EDA, Linear Regression        |@vernonyo|
 
 ## 🏃 Notebook Walkthrough
