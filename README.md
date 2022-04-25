@@ -17,7 +17,7 @@ For detailed walkthrough, please view the source code in order from:
 
 1. Data Sampling and Data Cleaning, found in: [Clean Oscar Award](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/datasets/Clean%20Oscar%20Award.ipynb)
 2. Visualisation and Exploratory Data Analysis, found in: [Data Visualization and EDA](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Data%20Visualisation%20and%20EDA.ipynb)
-3. Data Modelling using Linear Regression, found in: [Prediction](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
+3. Data Modelling using Linear Regression and Decision Tree, found in: [Prediction](https://github.com/vernonyo/Film-Awards-Predictions/blob/main/Prediction.ipynb)
 
 ## ❓ Problem Statement
 
